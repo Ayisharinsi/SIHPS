@@ -20,8 +20,7 @@ The notification system operates by leveraging geolocation services to detect us
 
 
 ## Use Cases
-![shl1](https://github.com/Ayisharinsi/SIHPS/assets/148609304/a56dd140-9b8c-4653-a686-347cb4035e6b)
-
+![shl2](https://github.com/Ayisharinsi/SIHPS/assets/148609304/285541b5-d62f-4d62-a50b-084ed386a7e8)
 
 ## Technology Stack
 - Frameworks
